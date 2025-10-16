@@ -55,9 +55,8 @@ public class Lab4 {
         acc1.displayDetails();
         acc1.calculateInterest();
 
-        System.out.println("---------------------------");
-
         acc2.displayDetails();
         acc2.calculateInterest();
     }
 }
+
