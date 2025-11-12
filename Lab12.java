@@ -19,3 +19,5 @@ public class Lab12 extends Application {
         launch(args);
     }
 }
+
+// other files - Student.java, StudentController.java, StudentView.java
